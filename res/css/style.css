@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+}
+header{
+    border-bottom: 1px solid greenyellow;
+    top: 0;
+    position: sticky;
+}
+.container{
+    text-align: center;
+}
+.container p{
+    margin: 0 auto;
+    margin-top: 20px;
+    border: solid white 2px;
+    border-radius: 10px;
+    height: 1.5rem;
+    background-color:brown;
+    max-width: 400px;
+}
